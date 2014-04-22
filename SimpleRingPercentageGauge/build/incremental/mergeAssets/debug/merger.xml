@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="19.0.1" >
+        <source path="/Users/zainozzaini/Documents/android_eclipse_workspace/iosched_googleIO/MyOrderSMS/Simple Ring Percentage Gauge/build/exploded-aar/com.android.support/appcompat-v7/19.0.1/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/zainozzaini/Documents/android_eclipse_workspace/iosched_googleIO/MyOrderSMS/Simple Ring Percentage Gauge/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/zainozzaini/Documents/android_eclipse_workspace/iosched_googleIO/MyOrderSMS/Simple Ring Percentage Gauge/src/debug/assets" />
+    </dataSet>
+
+</merger>

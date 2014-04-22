@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleRingGauge">
+        <attr name="ringChartStyle" format="reference"/>
+        <attr name="radius" format="integer" />
+        <attr name="ringBackColor" format="color"/>
+        <attr name="gaugeColor" format="color"/>
+        <attr name="animationDurationMilSec"  format="float"/>
+        <attr name="textPercentSize" format="integer"/>
+        <attr name="textPercentColor" format="color"/>
+        <attr name="percentage" format="float" />
+
+    </declare-styleable>
+</resources>

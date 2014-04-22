@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/zainozzaini/Documents/android_eclipse_workspace/iosched_googleIO/MyOrderSMS/Simple%20Ring%20Percentage%20Gauge/build/exploded-aar/com.android.support/appcompat-v7/19.0.1/res/values-w360dp/values.xml -->
+    <eat-comment />
+
+    <integer name="abc_max_action_buttons">3</integer>
+
+</resources>
